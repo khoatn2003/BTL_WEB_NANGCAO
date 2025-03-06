@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TestBTL.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <nav>
+        <img src="~/images/logo.jpg" alt="Chưa có ảnh hihi" />
+        <div class="navigation">
+            <ul>
+                <li><a href="#">Trang chủ</a></li>
+                <li><a href="#">Giới thiệu</a></li>
+                <li><a href="#">Bài viết</a></li>
+                <li><a href="#">Khóa học</a></li>
+                <li><a href="#">Liên hệ</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer>
+        <div class="footer-col">
+            <h3>Thông tin Nhóm8</h3>
+            <li>Giới thiệu</li>
+            <li>Dịch vụ</li>
+            <li>Liên hệ</li>
+            <li>Tài trợ</li>
+        </div>
+
+        <div class="footer-col">
+            <h3>Lĩnh vực</h3>
+            <li>Lập trình</li>
+        </div>
+
+        <div class="footer-col">
+            <h3>Khóa học</h3>
+            <li>Microsoft Word 2016</li>
+            <li>Microsoft Excel 2016</li>
+            <li>Microsoft PowerPoint 2016</li>
+            <li>Khóa học lập trình Android cơ bản</li>
+        </div>
+
+        <div class="footer-col">
+            <h3>Liên kết</h3>
+            <li>Lập trình ASP.NET MVC </li>
+        </div>
+
+        <div class="footer-col">
+            <h3>Lời nhắn gửi</h3>
+            <p>Hãy tin tôi,chúng tôi sẽ đem lại cho bạn trải nghiệm tốt nhất</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Địa chỉ đăng kí email của bạn" name="" id="">
+                <a href="#" class="yellow">ĐĂNG KÝ</a>
+            </div>
+        </div>
+
+        <div class="copyright">
+            <p>Nhom8 © 2025</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

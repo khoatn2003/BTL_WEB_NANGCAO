@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TestBTL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TestBTL.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\css\\homestyle.css",
+      "PackagePath": "staticwebassets\\css\\homestyle.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\a.png",
+      "PackagePath": "staticwebassets\\images\\a.png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\b1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\b2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\b3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\b4.png",
+      "PackagePath": "staticwebassets\\images\\b4.png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\back.jpg",
+      "PackagePath": "staticwebassets\\images\\back.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\back1.jpg",
+      "PackagePath": "staticwebassets\\images\\back1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\back2.jpg",
+      "PackagePath": "staticwebassets\\images\\back2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\c1.jpg",
+      "PackagePath": "staticwebassets\\images\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\c2.jpg",
+      "PackagePath": "staticwebassets\\images\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\c3.jpg",
+      "PackagePath": "staticwebassets\\images\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\c4.jpg",
+      "PackagePath": "staticwebassets\\images\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\c5.jpg",
+      "PackagePath": "staticwebassets\\images\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\c6.jpg",
+      "PackagePath": "staticwebassets\\images\\c6.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\c7.jpeg",
+      "PackagePath": "staticwebassets\\images\\c7.jpeg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\fe1.png",
+      "PackagePath": "staticwebassets\\images\\fe1.png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\fe2.png",
+      "PackagePath": "staticwebassets\\images\\fe2.png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\pro1.webp",
+      "PackagePath": "staticwebassets\\images\\pro1.webp"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\pro2.webp",
+      "PackagePath": "staticwebassets\\images\\pro2.webp"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\pro3.webp",
+      "PackagePath": "staticwebassets\\images\\pro3.webp"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\pro4.webp",
+      "PackagePath": "staticwebassets\\images\\pro4.webp"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\signup.jpg",
+      "PackagePath": "staticwebassets\\images\\signup.jpg"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\trust (1).png",
+      "PackagePath": "staticwebassets\\images\\trust (1).png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\trust (2).png",
+      "PackagePath": "staticwebassets\\images\\trust (2).png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\trust (3).png",
+      "PackagePath": "staticwebassets\\images\\trust (3).png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\trust (4).png",
+      "PackagePath": "staticwebassets\\images\\trust (4).png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\trust (5).png",
+      "PackagePath": "staticwebassets\\images\\trust (5).png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\images\\trust (6).png",
+      "PackagePath": "staticwebassets\\images\\trust (6).png"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Lập trình WEB_NANGCAO\\TestBTL\\TestBTL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TestBTL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TestBTL.props",
+      "PackagePath": "build\\TestBTL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TestBTL.props",
+      "PackagePath": "buildMultiTargeting\\TestBTL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TestBTL.props",
+      "PackagePath": "buildTransitive\\TestBTL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
