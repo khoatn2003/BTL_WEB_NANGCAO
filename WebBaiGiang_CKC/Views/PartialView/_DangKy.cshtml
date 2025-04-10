@@ -1,0 +1,103 @@
+﻿<div class="modal fade" id="registerModal" tabindex="-1" role="dialog"
+     aria-labelledby="registerModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0">
+                <button style="color:black" type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-title text-center">
+                    <h3 style=" color:black"> Đăng ký</h3>
+                </div>
+                <div class="d-flex flex-column text-center">
+                    <form id="registerForm">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="mssv-register" placeholder="MSSV" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" id="matkhau-register" placeholder="Mật khẩu" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" id="email-register" placeholder="Email" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="hoten-register" placeholder="Họ tên" required>
+                        </div>
+                        <button type="submit" class="btn btn-success btn-block btn-round">Đăng ký</button>
+                        <a href="#" id="goToLogin" style="margin-top:10px; color:#007bff;">
+                            Đã có tài khoản? Đăng nhập
+                        </a>
+
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#registerForm').submit(function (e) {
+            e.preventDefault(); // chặn reload trang
+
+            var data = {
+                mssv: $('#mssv-register').val(),
+                matkhau: $('#matkhau-register').val(),
+                email: $('#email-register').val(),
+                hoten: $('#hoten-register').val(),
+            };
+
+            $.ajax({
+                url: '/api/authentication/register', // route API backend của bạn
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(data),
+                success: function (response) {
+                    notyf.success('Đăng ký thành công!');
+                    window.location.href = '/'; 
+                },
+                error: function (xhr) {
+                    // Lấy message nếu có từ server
+                    var message = xhr.responseJSON?.message || xhr.responseText || 'Đăng ký thất bại.';
+                    notyf.error(message);
+                }
+            });
+        });
+        
+          const notyf = new Notyf({
+                    duration: 3000,
+                    position: {
+                        x: 'right',
+                        y: 'top',
+                    },
+                    types: [
+                        {
+                            type: 'success',
+                            background: '#00b300',
+                            icon: {
+                                className: 'material-icons',
+                                tagName: 'i',
+                                text: 'check_circle',
+                                color: 'white',
+                            },
+                        },
+                        {
+                            type: 'error',
+                            background: '#ff4d4d',
+                            icon: {
+                                className: 'material-icons',
+                                tagName: 'i',
+                                text: 'cancel',
+                                color: 'white',
+                            },
+                        },
+                    ],
+                });
+    });
+    
+ 
+</script>
+
+
